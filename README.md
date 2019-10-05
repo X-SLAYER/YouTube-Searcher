@@ -1,6 +1,6 @@
 # yourtube
 
-A new Flutter project.
+Flutter project.
 
 ## YouTube Searcher 
 
