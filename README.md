@@ -12,4 +12,8 @@ A few resources to get you started if this is your first Flutter project:
 - [YouTube: X-SLAYER](https://www.youtube.com/c/XSLAYERTN)
 
 
-![flutter](https://i.imgur.com/hRcnigU.gif)
+![flutter](https://i.imgur.com/x0BkXW2.jpg)
+
+
+
+![flutter](https://i.imgur.com/1Hwor8K.jpg)
